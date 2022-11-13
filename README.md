@@ -1,2 +1,3 @@
-# coursera-test
-Coursera test repository
+# HTML/CSS
+HTML/CSS pages
+
